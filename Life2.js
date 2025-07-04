@@ -8,7 +8,7 @@ const slideshowImages = [
 ];
 
 
-function App() {
+function Life2() {
   const [slideIndex, setSlideIndex] = useState(0);
 
   useEffect(() => {
@@ -90,7 +90,7 @@ function App() {
   );
 }
 
-export default App;
+export default Life2;
 
 // =============================
 // Stylish Inline CSS
