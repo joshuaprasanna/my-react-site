@@ -61,7 +61,7 @@ function Life2() {
         <h2 style={styles.heading}>About Us</h2>
         <p style={styles.text}>
           We are a non-profit committed to sustainable growth through education,
-          health programs, and community support.
+          health programs, and community support. aaaaaaaaaaaaaaaa.
         </p>
       </section>
 
